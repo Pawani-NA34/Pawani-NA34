@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Pawani-NA34
-- 👀 I’m interested in knowing why I exist
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on IBM
+- 👀 I’m interested in knowing about quantum computing
+- 🌱 I’m currently learning C++ 
+- 💞️
 - 📫 How to reach me :)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I know we humans are here for no reason. At the end I feel it is love for which we all live.
+- ⚡ Fun fact: I know 
 
 <!
 Pawani-NA34/Pawani-NA34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

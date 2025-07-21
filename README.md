@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @Pawani-NA34
-- 👀 I’m interested in knowing about quantum computing
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning C++, Python, ...
 - 💞️
-- 📫 How to reach me :)
+- 📫 How to reach me : (https://www.linkedin.com/in/pawani-j-030556327) | pawani.2024.886@mirandahouse.ac.in
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I know 
+- ⚡ Fun fact: I know that I don't know
 
 <!
-Pawani-NA34/Pawani-NA34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
